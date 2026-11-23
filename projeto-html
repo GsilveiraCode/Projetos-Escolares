@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<head>
+<title>Entre Distros e Terminais</title>
+<style>
+img {
+margin: auto;
+display:block;
+}
+table {
+    width: 100%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #999999;
+    color: black;
+    padding: 12px;
+    border: 2px solid #ccc;
+}
+
+td {
+    border: 2px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #eeeeee;
+};
+
+</style>
+</head>
+<header>
+	<h1 style="text-align: center;">Entre Distros e Terminais</h1>
+	<p style="text-align: center"><strong>Um espaço para explorar o mundo linux</strong></p>
+	<p style="text-align: center">Autor: Guilherme da Silveira Ferreira</p>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" alt-"tux, o mascote do linux" width="100">
+</header>
+<main>
+	<h1 style="text-align: center">O que é uma disto linux?</h1>
+	<p>Uma distribuição Linux (também chamada de distro) é um sistema operacional baseado no kernel Linux, acompanhado de programas, ferramentas e outros componentes que permitem seu funcionamento.</p>
+	<p>Em resumo, as distribuições Linux são diferentes maneiras de utilizar e personalizar o sistema Linux, permitindo que cada usuário escolha aquela que melhor atende às suas necessidades.</p>
+	<h3 style="text-align: center">O que é um kernel?</h3>
+	<p>O kernel é o núcleo de um sistema operacional.
+    Ele é responsável por controlar a comunicação entre
+    o hardware e os programas, gerenciando recursos como
+    memória, processador e dispositivos.</p>
+	<h3 style="text-align: center">Para mais informações consulte:</h3>
+	<div style="text-align: center;">
+	<a href="https://docs.kernel.org/">Documentação oficial do linux</a>
+	</div>
+	<h1 style="text-align: center">Linux é difícil para iniciantes?</h1>
+	<h2>Sistemas baseados em linux pode ser usavel por pessoas com pouco conhecimento sobre sistemas operacionais?</h2>
+	<p>Existem diversas distribuições Linux, desde as mais simples de utilizar no dia a dia, que não exigem que o usuário realize muitas tarefas manualmente, até as mais complexas, que demandam mais tempo, dedicação e conhecimento para serem utilizadas e configuradas corretamente.</p>
+	<p>Entre as distribuições mais simples, podemos citar Linux Mint, Ubuntu e Fedora. Elas geralmente facilitam tarefas como instalar o sistema operacional, realizar atualizações e instalar programas.</p>
+	<p>Por outro lado, existem distribuições que oferecem mais liberdade e exigem maior participação do usuário na configuração do sistema, como Arch Linux, Gentoo e Slackware. Nelas, dependendo da instalação escolhida, pode ser necessário configurar diversos componentes manualmente, como gerenciadores de rede Wi-Fi, ambientes gráficos, gerenciadores de janelas e sistemas de áudio.</p>
+	<p>Isso não significa necessariamente que essas distribuições sejam ruins ou que seja impossível utilizá-las sem experiência. Apenas significa que elas podem exigir mais estudo e disposição para aprender.</p>
+	<h2 style="text-align: center">Distros linux e nível de dificuldade para iniciantes</h2>
+	<table>
+		<tr>
+			<th>Distros</th>
+			<th>Dificuldade</th>
+		</tr>
+		<tr>
+			<td>Linux Mint</td>
+			<td>Facil</td>
+		</tr>
+		<tr>
+			<td>Ubunto</td>
+			<td>Facil</td>
+		</tr>
+		<tr>
+			<td>Debian</td>
+			<td>Intermediario</td>
+		</tr>
+		<tr>
+			<td>Fedora</td>
+			<td>Intermediario</td>
+		</tr>
+		<tr>
+			<td>Arch Linux</td>
+			<td>Difícil</td>
+		</tr>
+		<tr>
+			<td>Gentoo</td>
+			<td>Difícil</td>
+		</tr>
+		</table>
+
+<h1 style="text-align: center">Documentações oficiais das distribuições Linux</h1>
+
+<p>
+    Confira abaixo os links para as documentações oficiais
+    de cada distribuição citada anteriormente:
+</p>
+
+<ul>
+    <li>
+        <a href="https://wiki.archlinux.org/">
+            Arch Linux - ArchWiki
+        </a>
+    </li>
+
+    <li>
+        <a href="https://www.linuxmint.com/documentation.php">
+            Linux Mint - Documentação
+        </a>
+    </li>
+
+    <li>
+        <a href="https://www.debian.org/doc/">
+            Debian - Documentação
+        </a>
+    </li>
+
+    <li>
+        <a href="https://docs.fedoraproject.org/">
+            Fedora - Documentação
+        </a>
+    </li>
+
+    <li>
+        <a href="https://help.ubuntu.com/">
+            Ubuntu - Documentação
+        </a>
+    </li>
+
+    <li>
+        <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64">
+            Gentoo - Handbook
+        </a>
+    </li>
+</ul>
+
+
+
